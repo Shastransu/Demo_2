@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96951" started-at="2019-07-24T07:03:33Z" finished-at="2019-07-24T07:05:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96951" started-at="2019-07-24T07:03:33Z" finished-at="2019-07-24T07:05:10Z">
+      <class name="com.text.CaseStudy">
+        <test-method status="PASS" signature="configure()[pri:0, instance:com.text.CaseStudy@14bf9759]" name="configure" is-config="true" duration-ms="27339" started-at="2019-07-24T07:03:33Z" finished-at="2019-07-24T07:04:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configure -->
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.text.CaseStudy@14bf9759]" name="startReport" is-config="true" duration-ms="11688" started-at="2019-07-24T07:04:00Z" finished-at="2019-07-24T07:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="signup()[pri:1, instance:com.text.CaseStudy@14bf9759]" name="signup" duration-ms="31749" started-at="2019-07-24T07:04:12Z" finished-at="2019-07-24T07:04:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.text.CaseStudy@14bf9759]" name="AfterMethod" is-config="true" duration-ms="5479" started-at="2019-07-24T07:04:44Z" finished-at="2019-07-24T07:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="login()[pri:2, instance:com.text.CaseStudy@14bf9759]" name="login" duration-ms="3455" started-at="2019-07-24T07:04:49Z" finished-at="2019-07-24T07:04:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.text.CaseStudy@14bf9759]" name="AfterMethod" is-config="true" duration-ms="65" started-at="2019-07-24T07:04:53Z" finished-at="2019-07-24T07:04:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="testCart()[pri:3, instance:com.text.CaseStudy@14bf9759]" name="testCart" duration-ms="3972" started-at="2019-07-24T07:04:53Z" finished-at="2019-07-24T07:04:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCart -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.text.CaseStudy@14bf9759]" name="AfterMethod" is-config="true" duration-ms="74" started-at="2019-07-24T07:04:57Z" finished-at="2019-07-24T07:04:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="testPayment()[pri:4, instance:com.text.CaseStudy@14bf9759]" name="testPayment" duration-ms="12693" started-at="2019-07-24T07:04:57Z" finished-at="2019-07-24T07:05:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPayment -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.text.CaseStudy@14bf9759]" name="AfterMethod" is-config="true" duration-ms="80" started-at="2019-07-24T07:05:10Z" finished-at="2019-07-24T07:05:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="endreporter()[pri:0, instance:com.text.CaseStudy@14bf9759]" name="endreporter" is-config="true" duration-ms="313" started-at="2019-07-24T07:05:10Z" finished-at="2019-07-24T07:05:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endreporter -->
+      </class> <!-- com.text.CaseStudy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
